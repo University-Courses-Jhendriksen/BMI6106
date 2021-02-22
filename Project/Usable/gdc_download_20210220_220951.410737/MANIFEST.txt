@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+b81e0884-f092-4469-8344-0aa724c38d97	b81e0884-f092-4469-8344-0aa724c38d97/TARGET_ALL_ClinicalData_Phase2_Discovery_20160714.xlsx	159768c35904e6b6e0745977b0569758	189597	validated

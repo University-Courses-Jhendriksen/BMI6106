@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+23f964f1-27cd-4786-a7b0-41e5f5b7713e	23f964f1-27cd-4786-a7b0-41e5f5b7713e/TARGET_ALL_ClinicalData_Phase2_Validation_20160714.xlsx	37833eac15e83cc8c835a78220289b40	183424	validated
